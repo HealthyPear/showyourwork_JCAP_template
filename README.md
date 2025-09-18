@@ -15,4 +15,16 @@
 </a>
 </p>
 
-An open source scientific article created using the [showyourwork](https://github.com/showyourwork/showyourwork) workflow.
+# JCAP Paper Template
+
+An open source scientific article based on the offical LaTeX template of 
+[Journal of Cosmology and Astroparticle Physics (JCAP)](https://iopscience.iop.org/journal/1475-7516)
+created using the [showyourwork](https://github.com/showyourwork/showyourwork) workflow.
+
+The template is based on the journal's [official LaTeX template](https://jcap.sissa.it/jcap/help/JCAP_TeXclass.jsp).
+
+1. Create a `Python>=3.11` + `pip` virtual environment manager and install `showyourwork`
+2. Use this template repository to create a new repository
+3. Clone the new repository to your local machine
+4. Run `showyourwork build` inside your new repo to build the article
+5. Start editing!
